@@ -1,0 +1,3 @@
+[submodule "files/schema2ldif"]
+	path = files/schema2ldif
+	url = https://github.com/fusiondirectory/schema2ldif

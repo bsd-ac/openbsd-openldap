@@ -1,0 +1,11 @@
+---
+- name: Install OpenLDAP
+
+  hosts:
+    - mainserver
+
+  vars_files:
+    - vars.yml
+
+  roles:
+    - role: openldap
